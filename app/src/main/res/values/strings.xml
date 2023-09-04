@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">equalstext</string>
+    <string name="resultTrue">Las cadenas de caracteres son iguales</string>
+    <string name="resultFalse">Las cadenas de caracteres no son iguales</string>
+</resources>
